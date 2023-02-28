@@ -27,7 +27,7 @@
 
 <h2>My GitHub stats</h2>
 
-![namseohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=namseohyeon&hide_title=true&show_icons=true&include_all_commits=false&disable_animations=false&theme=buefy)
+![namseohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=namseohyeon&show_icons=true&theme=radical)
   
 ### Hi there 👋
 
