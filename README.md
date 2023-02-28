@@ -25,14 +25,9 @@
 
 ![Figma](https://img.shields.io/badge/Figma-020202?style=flat-square&logo=Figma&logoColor=)
 
-
-<h2>Console.log("Develop record");</h2>
-<a href="https://velog.io/@eheo"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://www.instagram.com/eun_coding/"><img src="https://img.shields.io/badge/Instagram-2A0C99?style=flat-square&logo=Instagram&&logoColor=white"/></a>
-
 <h2>My GitHub stats</h2>
 
-![namseohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAASHeo&hide_title=true&show_icons=true&include_all_commits=false&disable_animations=false&theme=buefy)
+![namseohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=namseohyeon&hide_title=true&show_icons=true&include_all_commits=false&disable_animations=false&theme=buefy)
   
 ### Hi there 👋
 
