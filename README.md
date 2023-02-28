@@ -1,6 +1,6 @@
 <h1>✨ Welcome to my GitHub ✨</h1>
 
-<p>Hi. I'm seohyeon nam, college student from 🇰🇷 <strong>Seoul, Republic of Korea</strong><br>My major is <strong>computer Engineering</strong>, and I am experiencing various developments.</p>
+<p>Hi there. I'm seohyeon nam, college student from 🇰🇷 <strong>Seoul, Republic of Korea</strong><br>My major is <strong>computer Engineering</strong>, and I am experiencing various developments.</p>
 
 <h2>My Activities</h2>
 
